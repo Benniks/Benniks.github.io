@@ -227,7 +227,7 @@ article {
 
 @media screen and (min-width: 1200px) {
   .post-content p {
-    display: flex;
+    display: block;
 
     img {
       flex: 1;
@@ -238,7 +238,9 @@ article {
         width: 500px !important;
 
         &:last-child {
-          margin-left: 24px;
+          right: -210px;
+          position: relative;
+
         }
       }
     }

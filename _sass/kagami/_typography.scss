@@ -5,7 +5,7 @@
 
 body {
   color: $content-color;
-  font-size: font-size();
+  font-size: 18px;
   font-weight: 300;
   font-kerning: normal;
   border-top: 2px solid currentColor;
@@ -50,6 +50,7 @@ article {
     hanging-punctuation: allow-end; // no browser supports this rule
     line-height: 2em;
     font-weight: 400;
+    font-size: 16px;
   }
 
   .aside, .sidenote, .side-note {
