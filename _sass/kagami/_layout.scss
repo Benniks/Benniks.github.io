@@ -224,6 +224,13 @@ article {
   }
 }
 
+@media screen and (max-width: 1200px) {
+  img[alt$="-halfwidth"] {
+    width: 60%;
+    display: block;
+    margin: 20px auto;
+  }
+}
 
 @media screen and (min-width: 1200px) {
   .post-content p {
