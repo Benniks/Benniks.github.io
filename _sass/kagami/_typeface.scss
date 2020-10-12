@@ -59,7 +59,7 @@
   font-family: "Crimson Text", $font-family-fallback, "Kagami Emoji";
 }
 
-@mixin font-serif-zh-Hans($font-family-fallback: sans-serif) {
+@mixin font-serif-zh-Hans($font-family-fallback: serif) {
   font-family: "Crimson Text", "Kagami SC", $font-family-fallback, "Kagami Emoji";
 }
 
