@@ -239,6 +239,7 @@ article {
     img {
       flex: 1;
       max-width: 1024px;
+      width: 1024px;
       margin-left: -192px;
 
       &[alt$="-halfwidth"] {
