@@ -68,11 +68,11 @@ author: benniks
 
 GT Sport 具有的拍照吸引力别具一格。  
 简要来说 GT Sport 里面的拍照分静态动态两种。静态是在首页的 「Scapes」模式里，游戏固定场景（一千多个！）供玩家拍照，内容涵盖全世界的著名景点、赛道、车库、厂房等。这个模式场景是固定的，所以精细化足以以假乱真，比如 Lexus 的[这个场景对比](https://twitter.com/LexusUK/status/1208684884052660224)，官方也在输出时添加了 2x 的分辨率（3840*2160px）的选择。其 
-这里大部分图片都出自此模式。
+这里大部分图片都出自此模式。  
 
 动态则是在你的每场竞赛回放时随时按下暂停，用可选的预置的角度或者自由模式移动拍照，对象可以是比赛中的任意车型。
 配合拍照时诸多自定义选项（比如追焦就有三种模式及成功率可选）可以拍出真实竞赛场景中难以获取的精彩画面。  
 
-官方也有一个[社区](https://www.gran-turismo.com/gb/gtsport/user/discover/like/scapesPhoto)来展示用户分享的作品。
+官方也有一个[社区](https://www.gran-turismo.com/gb/gtsport/user/discover/like/scapesPhoto)来展示用户分享的作品。  
 
 对 GT Sport 其它部分感兴趣，可以阅读机核[这篇文章](https://www.gcores.com/articles/111376)和 Livid  [这篇](https://livid.v2ex.com/essays/2018/06/18/gt-sport.html)。
